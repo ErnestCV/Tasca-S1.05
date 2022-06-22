@@ -11,14 +11,14 @@ public class DirectorisTest {
     @Test
     void compareDirectoryList() {
 
+        String dirName = "C:\\Users\\ecv-s\\IdeaProjects";
         GestioDirectori gestioDirectori = new GestioDirectori();
 
-        List<File> directorisListJava = gestioDirectori.mostraDirectoriAlfabeticJava("C:\\Users\\ecv-s\\IdeaProjects");
-        List<File> directorisListApache = gestioDirectori.mostraDirectoriAlfabeticApache("C:\\Users\\ecv-s\\IdeaProjects");
+        List<File> directorisListJava = gestioDirectori.mostraDirectoriAlfabeticJava(dirName);
+        List<File> directorisListApache = gestioDirectori.mostraDirectoriAlfabeticApache(dirName);
         directorisListApache.remove(0); //Hem d'eliminar el primer element, el directori parent
 
         assertThat(directorisListJava.equals(directorisListApache)).isTrue();
 
     }
-
 }
