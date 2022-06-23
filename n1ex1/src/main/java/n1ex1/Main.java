@@ -8,8 +8,9 @@ public class Main {
     public static void main(String[] args) {
 
         //"C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex1\src\main\java\n1ex1\Main.java"
+        //"C:\\Users\\formacio\\IdeaProjects"
 
-        String dirName = "C:\\Users\\ecv-s\\IdeaProjects";
+        String dirName = "C:\\Users\\formacio\\IdeaProjects";
 
         GestioDirectori gestioDirectori = new GestioDirectori();
 
