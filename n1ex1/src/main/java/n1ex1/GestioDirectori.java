@@ -41,16 +41,16 @@ public class GestioDirectori {
         return directorisListJava;
     }
 
-    public List<File> mostraDirectoriAlfabeticApache(String dirName) {
-
-        //Amb la llibreria de commons-io
-
-        //listFilesAndDirs(file(dirname), filefilter, optional dirfilter - null: no subdirectoris)
-        Collection<File> directorisCollection =  FileUtils.listFilesAndDirs(new File(dirName), TrueFileFilter.TRUE, null);
-        List<File> directorisListApache = new ArrayList<>(directorisCollection);
-        Collections.sort(directorisListApache);
-        return directorisListApache;
-
-    }
+//    public List<File> mostraDirectoriAlfabeticApache(String dirName) {
+//
+//        //Amb la llibreria de commons-io
+//
+//        //listFilesAndDirs(file(dirname), filefilter, optional dirfilter - null: no subdirectoris)
+//        Collection<File> directorisCollection =  FileUtils.listFilesAndDirs(new File(dirName), TrueFileFilter.TRUE, null);
+//        List<File> directorisListApache = new ArrayList<>(directorisCollection);
+//        Collections.sort(directorisListApache);
+//        return directorisListApache;
+//
+//    }
 
 }

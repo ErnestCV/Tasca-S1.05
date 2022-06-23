@@ -17,10 +17,10 @@ public class Main {
         List<File> directorisListJava = gestioDirectori.mostraDirectoriAlfabeticJava(dirName);
         directorisListJava.forEach(System.out::println);
 
-        System.out.println();
+        //System.out.println();
 
-        List<File> directorisListApache = gestioDirectori.mostraDirectoriAlfabeticApache(dirName);
-        directorisListApache.forEach(System.out::println);
+//        List<File> directorisListApache = gestioDirectori.mostraDirectoriAlfabeticApache(dirName);
+//        directorisListApache.forEach(System.out::println);
 
     }
 
