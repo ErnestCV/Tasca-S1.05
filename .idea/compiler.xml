@@ -12,6 +12,7 @@
         <module name="n1ex4" />
         <module name="n2ex1" />
         <module name="n1ex1" />
+        <module name="n3ex1" />
       </profile>
     </annotationProcessing>
   </component>
