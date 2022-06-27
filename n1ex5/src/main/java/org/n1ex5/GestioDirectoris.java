@@ -128,7 +128,6 @@ public class GestioDirectoris {
         } catch (IOException e) {
             e.printStackTrace();
         }
-
     }
 
     public Persona deserialitzaObjectePersona(String fileName) {
@@ -143,7 +142,5 @@ public class GestioDirectoris {
             e.printStackTrace();
             return null;
         }
-
     }
-
 }
