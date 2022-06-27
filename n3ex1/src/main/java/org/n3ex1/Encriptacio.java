@@ -50,12 +50,12 @@ public class Encriptacio {
 
             while ((bytesRead = inputStream.read(buffer)) != -1) {
                 byte[] output = cipher.update(buffer, 0, bytesRead);
-                if (output != null){
+                if (output != null) {
                     outputStream.write(output);
                 }
             }
             byte[] outputBytes = cipher.doFinal();
-            if (outputBytes != null){
+            if (outputBytes != null) {
                 outputStream.write(outputBytes);
             }
             inputStream.close();
