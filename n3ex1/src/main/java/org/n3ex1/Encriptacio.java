@@ -26,7 +26,8 @@ public class Encriptacio {
             keyGenerator.init(n);
             return keyGenerator.generateKey();
         } catch (NoSuchAlgorithmException e) {
-            throw new RuntimeException(e);
+            e.printStackTrace();
+            return null;
         }
     }
 
