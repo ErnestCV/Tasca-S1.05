@@ -60,24 +60,38 @@ public class Encriptacio {
             }
             inputStream.close();
             outputStream.close();
+
         } catch (InvalidKeyException | InvalidAlgorithmParameterException | IOException | IllegalBlockSizeException |
                  BadPaddingException e) {
             e.printStackTrace();
         }
     }
 
-    public void desencripta(SecretKey key, IvParameterSpec iv, File inputFile, File outputFile) {
+    public void desencripta(SecretKey key, IvParameterSpec iv, File arxiuEncriptat, File arxiuDesencriptat) {
 
         try {
             cipher.init(Cipher.DECRYPT_MODE, key, iv);
 
-            FileInputStream inputStream = new FileInputStream(inputFile);
-            FileOutputStream outputStream = new FileOutputStream(outputFile);
+            FileInputStream inputStream = new FileInputStream(arxiuEncriptat);
+            FileOutputStream outputStream = new FileOutputStream(arxiuDesencriptat);
 
             byte[] buffer = new byte[64];
             int bytesRead;
 
-        } catch (InvalidKeyException | InvalidAlgorithmParameterException | FileNotFoundException e) {
+            while ((bytesRead = inputStream.read(buffer)) != -1) {
+                byte[] output = cipher.update(buffer, 0, bytesRead);
+                outputStream.write(output);
+            }
+
+            byte[] outputBytes = cipher.doFinal();
+            if (outputBytes != null) {
+                outputStream.write(outputBytes);
+            }
+            inputStream.close();
+            outputStream.close();
+
+        } catch (InvalidKeyException | InvalidAlgorithmParameterException | IOException | IllegalBlockSizeException |
+                 BadPaddingException e) {
             e.printStackTrace();
         }
 
