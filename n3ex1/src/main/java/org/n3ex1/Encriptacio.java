@@ -94,8 +94,5 @@ public class Encriptacio {
                  BadPaddingException e) {
             e.printStackTrace();
         }
-
-
     }
-
 }
