@@ -10,5 +10,7 @@ public class Main {
         gestioDirectoris.serialitzaObjecte(persona, "prova.ser");
         Persona persona1 = gestioDirectoris.deserialitzaObjectePersona("prova.ser");
 
+        //S'inclou un test per comprovar que els objectes són iguals
+
     }
 }
