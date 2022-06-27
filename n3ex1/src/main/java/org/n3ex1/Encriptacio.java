@@ -2,6 +2,7 @@ package org.n3ex1;
 
 import javax.crypto.*;
 import javax.crypto.spec.IvParameterSpec;
+import java.io.*;
 import java.security.InvalidAlgorithmParameterException;
 import java.security.InvalidKeyException;
 import java.security.NoSuchAlgorithmException;
@@ -11,7 +12,6 @@ import java.util.Base64;
 public class Encriptacio {
 
     private static Cipher cipher;
-//    private static String key = "abcdefghijklmnop"; //16 bytes
 
     static {
         try {
@@ -37,29 +37,48 @@ public class Encriptacio {
         return new IvParameterSpec(iv);
     }
 
-    public String encripta(String text, SecretKey key, IvParameterSpec iv) {
+    public void encripta(SecretKey key, IvParameterSpec iv, File arxiuOriginal, File arxiuEncriptat) {
 
         try {
             cipher.init(Cipher.ENCRYPT_MODE, key, iv);
-            byte[] encriptat = cipher.doFinal(text.getBytes());
-            return Base64.getEncoder().encodeToString(encriptat);
-        } catch (InvalidKeyException | InvalidAlgorithmParameterException | IllegalBlockSizeException |
+
+            FileInputStream inputStream = new FileInputStream(arxiuOriginal);
+            FileOutputStream outputStream = new FileOutputStream(arxiuEncriptat);
+
+            byte[] buffer = new byte[64];
+            int bytesRead;
+
+            while ((bytesRead = inputStream.read(buffer)) != -1) {
+                byte[] output = cipher.update(buffer, 0, bytesRead);
+                if (output != null){
+                    outputStream.write(output);
+                }
+            }
+            byte[] outputBytes = cipher.doFinal();
+            if (outputBytes != null){
+                outputStream.write(outputBytes);
+            }
+            inputStream.close();
+            outputStream.close();
+        } catch (InvalidKeyException | InvalidAlgorithmParameterException | IOException | IllegalBlockSizeException |
                  BadPaddingException e) {
             e.printStackTrace();
-            return null;
         }
     }
 
-    public String desencripta(String encriptat, SecretKey key, IvParameterSpec iv) {
+    public void desencripta(SecretKey key, IvParameterSpec iv, File inputFile, File outputFile) {
 
         try {
             cipher.init(Cipher.DECRYPT_MODE, key, iv);
-            byte[] desencriptat = cipher.doFinal(Base64.getDecoder().decode(encriptat));
-            return new String(desencriptat);
-        } catch (InvalidKeyException | InvalidAlgorithmParameterException | IllegalBlockSizeException |
-                 BadPaddingException e) {
+
+            FileInputStream inputStream = new FileInputStream(inputFile);
+            FileOutputStream outputStream = new FileOutputStream(outputFile);
+
+            byte[] buffer = new byte[64];
+            int bytesRead;
+
+        } catch (InvalidKeyException | InvalidAlgorithmParameterException | FileNotFoundException e) {
             e.printStackTrace();
-            return null;
         }
 
 
