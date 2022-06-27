@@ -2,8 +2,6 @@ package org.n3ex1;
 
 import javax.crypto.*;
 import javax.crypto.spec.IvParameterSpec;
-import javax.crypto.spec.SecretKeySpec;
-import java.nio.charset.StandardCharsets;
 import java.security.InvalidAlgorithmParameterException;
 import java.security.InvalidKeyException;
 import java.security.NoSuchAlgorithmException;
@@ -23,10 +21,14 @@ public class Encriptacio {
         }
     }
 
-    public SecretKey generateKey(int n) throws NoSuchAlgorithmException {
-        KeyGenerator keyGenerator = KeyGenerator.getInstance("AES");
-        keyGenerator.init(n);
-        return keyGenerator.generateKey();
+    public SecretKey generateKey(int n, String algorithm) {
+        try {
+            KeyGenerator keyGenerator = KeyGenerator.getInstance(algorithm);
+            keyGenerator.init(n);
+            return keyGenerator.generateKey();
+        } catch (NoSuchAlgorithmException e) {
+            throw new RuntimeException(e);
+        }
     }
 
     public IvParameterSpec generateIv() {
