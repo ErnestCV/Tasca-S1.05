@@ -1249,3 +1249,834 @@
 [F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n2ex1\target\maven-status\maven-compiler-plugin\compile\default-compile\createdFiles.lst Last modified: Mon Jun 27 16:34:47 CEST 2022
 [F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n2ex1\target\maven-status\maven-compiler-plugin\compile\default-compile\inputFiles.lst Last modified: Mon Jun 27 16:35:36 CEST 2022
 [F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\readme.txt Last modified: Mon Jun 27 15:31:48 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\COMMIT_EDITMSG Last modified: Mon Jun 27 22:20:37 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\config Last modified: Wed Jun 22 14:48:03 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\description Last modified: Wed Jun 22 14:48:02 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\FETCH_HEAD Last modified: Mon Jun 27 15:31:48 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\HEAD Last modified: Sun Jun 26 15:30:21 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\hooks
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\hooks\applypatch-msg.sample Last modified: Wed Jun 22 14:48:02 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\hooks\commit-msg.sample Last modified: Wed Jun 22 14:48:02 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\hooks\fsmonitor-watchman.sample Last modified: Wed Jun 22 14:48:02 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\hooks\post-update.sample Last modified: Wed Jun 22 14:48:02 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\hooks\pre-applypatch.sample Last modified: Wed Jun 22 14:48:02 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\hooks\pre-commit.sample Last modified: Wed Jun 22 14:48:02 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\hooks\pre-merge-commit.sample Last modified: Wed Jun 22 14:48:02 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\hooks\pre-push.sample Last modified: Wed Jun 22 14:48:02 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\hooks\pre-rebase.sample Last modified: Wed Jun 22 14:48:02 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\hooks\pre-receive.sample Last modified: Wed Jun 22 14:48:02 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\hooks\prepare-commit-msg.sample Last modified: Wed Jun 22 14:48:02 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\hooks\push-to-checkout.sample Last modified: Wed Jun 22 14:48:02 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\hooks\update.sample Last modified: Wed Jun 22 14:48:02 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\index Last modified: Mon Jun 27 22:20:37 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\info
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\info\exclude Last modified: Wed Jun 22 14:48:02 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\logs
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\logs\HEAD Last modified: Mon Jun 27 22:20:37 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\logs\refs
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\logs\refs\heads
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\logs\refs\heads\main Last modified: Mon Jun 27 22:20:37 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\logs\refs\remotes
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\logs\refs\remotes\origin
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\logs\refs\remotes\origin\HEAD Last modified: Wed Jun 22 14:48:03 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\logs\refs\remotes\origin\main Last modified: Mon Jun 27 22:20:40 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\00
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\00\2cc9665df0a8d60f11bdf35b6272da41894f52 Last modified: Mon Jun 27 17:33:59 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\00\30acde5101e4465069e50b801aff2be3c1254a Last modified: Mon Jun 27 22:16:15 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\00\46426350d134a3408203c0a365d45c86e3931a Last modified: Mon Jun 27 22:00:47 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\00\5b240e3dc84d23cfbdd0a0540da8805690ce0d Last modified: Mon Jun 27 21:58:47 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\00\f9e5fcb656c6bd0518da665439e9e699d1cb47 Last modified: Mon Jun 27 19:03:07 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\02
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\02\1d18596c071e91d3d388dfdb3acb8db47b88f0 Last modified: Sun Jun 26 15:30:19 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\02\315982fa29d662e559f60a0fa686b1fcfd03c2 Last modified: Mon Jun 27 16:14:53 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\02\37a8084f370a679c6db1cb9ff7321b79279c7d Last modified: Sun Jun 26 15:30:19 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\02\7f55f723108e96ea0470757c1e3d7042e8c291 Last modified: Wed Jun 22 22:26:19 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\02\a1d0d4b7cc200033956fc83d2d0c34700e8c54 Last modified: Mon Jun 27 17:33:59 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\03
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\03\d80a60574459f5ce7d68ee1d79604ba4a70934 Last modified: Mon Jun 27 19:03:07 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\04
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\04\bb29f3866b6ba708958ce40c7c97bb69fcaa3e Last modified: Mon Jun 27 17:54:18 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\05
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\05\160486789708be08a1c9c8cbfa7b5d7ef73dd1 Last modified: Sun Jun 26 15:30:19 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\05\4eda88eed1f1079e990a0c932af19b002784d8 Last modified: Wed Jun 22 15:20:18 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\05\6013549b7059a324bd504fbc3a1f4f84a4f54c Last modified: Wed Jun 22 22:26:18 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\05\adb92fe59006f7eb89f4b562b52c21f26966b2 Last modified: Mon Jun 27 17:33:59 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\06
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\06\b1f31d7f59df402fe3ed055cefaae48c22b458 Last modified: Mon Jun 27 19:03:07 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\07
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\07\878a4a7f3d64bd4015da95a761889e37132faa Last modified: Mon Jun 27 15:30:25 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\08
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\08\68294b3a7b264e0cb58e4b85a282f103f2240c Last modified: Sun Jun 26 15:30:19 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\08\8deb59361ce78eb97b418a05aac72262e7aba4 Last modified: Mon Jun 27 15:30:25 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\08\a7893eafbf1595c858352a77c5209fd494213c Last modified: Mon Jun 27 22:20:37 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\0a
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\0a\298b242f818e13505ec88a5d4340930157586d Last modified: Mon Jun 27 22:03:47 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\0a\30896b9bd1a55fb30e228af4b31fed4cf51cd8 Last modified: Mon Jun 27 22:01:04 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\0a\4d6f14b0a03347b62fc08e3ec8ed84d5cade10 Last modified: Sun Jun 26 19:55:24 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\0a\ca31b4b251825eda6d79a3d6b57289e0b4b246 Last modified: Sun Jun 26 19:55:24 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\0b
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\0b\678212a2972841865c35ddab53587cb48f1ba2 Last modified: Mon Jun 27 15:30:25 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\0b\b0cdd35f8751698b38972b06d13687a42f9f5f Last modified: Mon Jun 27 22:00:47 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\0c
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\0c\01dab8b9c415b30182e35704d281a966e04a2e Last modified: Sun Jun 26 19:55:24 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\0c\68f728ce058cd2b77528be0c4b8a4a23d926e7 Last modified: Mon Jun 27 15:30:25 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\0d
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\0d\4f4585fce2fc18335e6cd355c84d05ab3d18cc Last modified: Wed Jun 22 22:18:08 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\0d\84dcb24370f15e2335c5f954622b89f6739741 Last modified: Mon Jun 27 19:03:07 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\0d\90b1adfc315d973cc439c354be6b43835891ab Last modified: Mon Jun 27 22:11:46 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\0f
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\0f\8270910da32b449c1c3d77854fb4aba0288662 Last modified: Mon Jun 27 16:14:53 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\10
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\10\da6fe540ae9c5e4b6e434a5915818ed627ba2a Last modified: Sun Jun 26 15:30:19 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\11
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\11\37b12e3381f1f25584a4d917b3a778236dfa64 Last modified: Wed Jun 22 22:33:21 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\11\c3ba0bc9a61be5a88a26d0015254d9ad0dcf12 Last modified: Mon Jun 27 22:03:47 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\12
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\12\496927aaf3492d614d8fdc002d1cf106e53cf5 Last modified: Mon Jun 27 19:03:07 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\15
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\15\3d2bff628de8b77cf4def054d48364bf5ac21f Last modified: Wed Jun 22 22:26:19 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\15\87191db9a3b2939dc7e8e2ba5bffccd93fd62f Last modified: Mon Jun 27 15:30:25 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\16
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\16\266ea6228ca8a119056149f9a2e39bbacd760b Last modified: Sun Jun 26 15:30:19 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\16\29bb659454cd22176a99046089ba5b1fed6518 Last modified: Sun Jun 26 19:55:24 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\16\49b504796804076db83e7cf024e4097065a2f0 Last modified: Mon Jun 27 22:01:04 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\17
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\17\7f4d54c79f96ef919d9a77c2043c0de41cd7cb Last modified: Mon Jun 27 15:30:25 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\18
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\18\9726896278171effd60c23c2956620c5b575dc Last modified: Sun Jun 26 19:55:24 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\19
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\19\7a803b8424303ba1cf0276bcad02b10390cd78 Last modified: Wed Jun 22 22:33:21 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\1a
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\1a\623626bf02498d51a13719f892e39695e55b5f Last modified: Mon Jun 27 22:00:47 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\1a\d45ff6f44f003cd28b079cf3d23a64e539f7df Last modified: Mon Jun 27 22:20:37 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\1b
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\1b\883321eeaff76457437543eb624b94db6e93c5 Last modified: Mon Jun 27 22:20:37 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\1b\b68e7e514173f85f0011a2c62139f4e1f757ee Last modified: Mon Jun 27 15:30:25 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\1e
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\1e\1e0ff372b678bf05e16b5df05ce35650a92973 Last modified: Mon Jun 27 22:01:04 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\1e\6b65ce081a42000ef3f50cac8374e63525e8f0 Last modified: Sun Jun 26 15:30:19 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\1f
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\1f\0580e93c48af91ef556c20440446ec4c84f4e8 Last modified: Wed Jun 22 22:18:08 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\1f\28eb04c67011f0c1e19502db161179ad13e3d0 Last modified: Sun Jun 26 15:30:19 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\1f\4e82c880c37f955f741c951d2b1f77104dcf11 Last modified: Sun Jun 26 15:30:19 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\1f\75b1eae344219817a4bd82b9724ae9900227f1 Last modified: Mon Jun 27 19:03:07 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\20
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\20\564c86af9737e4ec4645181afeda8d25205fdd Last modified: Sun Jun 26 15:30:19 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\22
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\22\299957b43d3a705cdba1946d27ac2a45a095e9 Last modified: Sun Jun 26 15:30:19 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\22\d219eccc9d35b58d958584b77c0abf96b0d96e Last modified: Mon Jun 27 22:01:04 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\23
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\23\30cc8e695873f2d7a70a7939451438fe88e0ab Last modified: Mon Jun 27 15:30:25 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\23\b8b4fc91af7dac0ce1cecd30e79a8c50c33a62 Last modified: Wed Jun 22 22:33:21 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\24
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\24\16f9070eb076157e182711bd42761c5adc370e Last modified: Mon Jun 27 22:16:15 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\24\70fdad79f70b1d7a3d0c561f420dac71135be4 Last modified: Mon Jun 27 17:33:59 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\24\b532ddaf6482453f86e308da99af87ec7d5bb5 Last modified: Mon Jun 27 19:10:44 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\25
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\25\5324adacf7ee80b7ec8136c07bbc92c88174aa Last modified: Mon Jun 27 15:30:25 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\26
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\26\17acc86038ced250618815b4d9a669906ce210 Last modified: Mon Jun 27 22:20:37 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\26\95f63ceedbdfb330a4cfebd63c875e63c79a8e Last modified: Mon Jun 27 15:30:25 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\26\98db264ca9d7527687f8f77e426b45fa166d4a Last modified: Mon Jun 27 17:33:59 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\26\d33521af10bcc7fd8cea344038eaaeb78d0ef5 Last modified: Wed Jun 22 14:50:01 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\27
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\27\c491faff4bc3470c28029c433d4409d43e7dd2 Last modified: Mon Jun 27 15:30:25 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\29
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\29\99e09a8cb32f793e2e22268d67232dfec86053 Last modified: Sun Jun 26 15:30:19 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\29\c9566a6c215485009e6e1598c8431d66582e78 Last modified: Sun Jun 26 19:55:24 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\2a
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\2a\30aaffc9b9eb11db9464fde7245259bf3de22e Last modified: Mon Jun 27 15:33:17 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\2a\d35ce46cf73c31a2934159532205008c12cf7a Last modified: Mon Jun 27 22:20:37 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\2b
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\2b\299b31c3217adf54ed2c4e1a1f13bcbb9459f5 Last modified: Mon Jun 27 19:10:44 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\2d
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\2d\b0095cb8e3ee66d49eee2f91ae2f6b891bf957 Last modified: Mon Jun 27 15:30:25 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\30
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\30\0790b09fa23012debf2544d6ce4e24006a7575 Last modified: Mon Jun 27 22:03:47 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\30\2a05da59cff3b9c79653e0fcaf8e57b42401cf Last modified: Wed Jun 22 22:26:18 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\31
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\31\c7ee00281e6a33a68ef81eebbf7425f161be7c Last modified: Mon Jun 27 22:16:15 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\31\cbc60f8ca406fd11c9f3beacfedbfc486954c0 Last modified: Mon Jun 27 15:30:25 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\32
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\32\1853ecdbf1733b5465dfb487ecab5e8d06ef7e Last modified: Sun Jun 26 15:30:19 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\32\af1e7e165d7c34bab486a65b19c22a7291bacc Last modified: Mon Jun 27 16:18:34 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\32\bfe3b20eff7bce40cf54c0a5c9594747831d13 Last modified: Wed Jun 22 14:50:01 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\33
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\33\25de99c503e783ffcaee9aa2e1aadccb3f85e6 Last modified: Mon Jun 27 15:30:25 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\33\2789c7893a67228eee5d23c5d37b653b5d78a7 Last modified: Mon Jun 27 22:00:47 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\33\ba3b0d4cb5c509fa33422189ac94168c8129df Last modified: Sun Jun 26 19:55:24 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\34
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\34\1720888f321babd7e543f0c50949dfd9401826 Last modified: Wed Jun 22 21:55:45 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\34\2feefbc1c367cad11a2efa32cf3bbcf759eb10 Last modified: Mon Jun 27 22:03:47 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\34\fe54a8374daac4328316d8e1b03712bb928542 Last modified: Mon Jun 27 15:30:25 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\35
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\35\297b829fb23b43e436ad5bc1b8452f2e1d7a24 Last modified: Wed Jun 22 22:33:21 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\35\a1b5794ab7b8ec4ef8ed6220fea1ef7037f6ad Last modified: Mon Jun 27 22:16:15 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\35\eb1ddfbbc029bcab630581847471d7f238ec53 Last modified: Wed Jun 22 14:50:01 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\36
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\36\00c4de73d5bdae8bed39d577ca36881c4d6aa1 Last modified: Mon Jun 27 19:03:07 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\36\0c8095da788351a5389e3272a778dc47380c45 Last modified: Wed Jun 22 22:18:13 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\37
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\37\44390f87c639c9fe2b27faa01f8f7c080de827 Last modified: Mon Jun 27 15:33:17 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\37\c5fe66257c79eb99816cbc4499fa93961b02c3 Last modified: Wed Jun 22 22:18:08 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\38
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\38\9c7c521319d8bf685328b8be8dc52014a2aab0 Last modified: Mon Jun 27 15:30:25 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\39
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\39\aeca93bb4ecf1e1b78a43b5e6ff84bdf7e7931 Last modified: Wed Jun 22 22:29:16 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\39\dece6fcd0480c0e0b305049a78720a1a75ff07 Last modified: Sun Jun 26 15:30:19 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\3a
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\3a\fc4ab284475a71f48b0b27d3f4054d190a1822 Last modified: Mon Jun 27 15:30:25 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\3c
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\3c\60f38cb71471483b338c07247ec567a3a4708c Last modified: Wed Jun 22 22:18:13 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\3d
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\3d\04e339964dc24ba8b3d21c51f898144f7d4d38 Last modified: Wed Jun 22 22:18:08 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\3d\7962bfab94aba3e990d956e9863469ded60bc4 Last modified: Mon Jun 27 22:11:46 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\3d\88e17e50c4d12bcf74e9ab7fee4c53d90c1f8b Last modified: Mon Jun 27 19:10:44 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\3d\d97f2bb6d568aa6f8354be1f336e53ecabdf24 Last modified: Mon Jun 27 19:35:09 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\3e
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\3e\abd30616882d12b7d4edf8d511950ff7f3506c Last modified: Mon Jun 27 22:16:15 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\3e\ba02a4b4b43ccd28d6cec858382ab71e837e02 Last modified: Mon Jun 27 22:20:37 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\3f
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\3f\320ca846f4401efe93f32bddf6db5fa3593751 Last modified: Wed Jun 22 22:18:08 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\3f\824a7f20f893c32e90570bb4d5d938fa283ff1 Last modified: Wed Jun 22 22:33:21 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\3f\e8901636f127e01acff5dd6cf03051b75f967e Last modified: Wed Jun 22 14:50:01 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\40
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\40\7f157bcb0852a527a500994d9e16a54f520f3f Last modified: Mon Jun 27 17:35:27 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\40\e1f27cd17c89aaec791e25b854825db66da3aa Last modified: Mon Jun 27 15:33:17 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\41
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\41\36cc0445040ded2550729fd4122775c75df723 Last modified: Mon Jun 27 22:03:47 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\43
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\43\7485fa163d864b06811efbdde8d277793575bf Last modified: Mon Jun 27 15:30:25 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\44
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\44\08117da532912d2638214dd79d564f44ece947 Last modified: Mon Jun 27 15:33:17 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\44\5fc360f3a269ff95405ce49c7ce44356a0b542 Last modified: Mon Jun 27 19:03:07 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\44\6b66451b91d8e91c5108dccae763e241c9b537 Last modified: Mon Jun 27 17:10:26 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\45
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\45\1759354931da2dff6673a8273733ae66e32859 Last modified: Sun Jun 26 19:55:24 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\45\802e1b3ebf5a63180fe8429e0a0f813e7b1d2a Last modified: Mon Jun 27 16:14:53 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\45\a66151257c1746a82dd77e39a1067e4dff8abc Last modified: Mon Jun 27 22:01:48 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\46
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\46\ed207b40392ff4534d07dd6c8b78cf9ad6d6dd Last modified: Mon Jun 27 17:33:59 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\46\f66583642d0fbde77a436a844dfe282fa0aba9 Last modified: Mon Jun 27 22:20:37 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\47
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\47\1a9720a4e7fb0a936f78855e42eda75f35f74a Last modified: Mon Jun 27 22:20:37 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\47\a73186b88507c6ff5e53b5c4a73117f5046937 Last modified: Sun Jun 26 15:30:19 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\47\e881eee7bab8d1a96b73faa01fa9cf1e45abdf Last modified: Wed Jun 22 22:29:16 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\48
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\48\05b7846085730a88cbbb2d0c7346ec484598cc Last modified: Wed Jun 22 22:18:08 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\49
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\49\10ca992b01066ca948ed251061a7555889f545 Last modified: Wed Jun 22 21:55:45 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\49\b0f6bb94e87d76ac95b971d87835e3459b268c Last modified: Mon Jun 27 22:16:15 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\4c
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\4c\fabf2d784d12cfbea4b1d55edecdf8af957cb2 Last modified: Sun Jun 26 15:30:19 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\4e
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\4e\1702f2f8ace3d8ed656a90271065dff7ac6970 Last modified: Mon Jun 27 15:33:17 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\4e\4d6fa91f88062a65e0ce9303cf8cd5ad3e6ced Last modified: Mon Jun 27 22:16:15 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\4f
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\4f\ef5a11900bf18d40a55344f25d4da80eae6dba Last modified: Mon Jun 27 15:30:25 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\50
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\50\d18c004a66147a85c14c4571de49c4b9b7662b Last modified: Wed Jun 22 22:18:08 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\51
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\51\25c753d04e5d32818177c3ec572d5e4034c317 Last modified: Mon Jun 27 19:35:09 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\51\387d68642e225fbafc017dff781f4496ad5a23 Last modified: Mon Jun 27 15:30:25 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\51\775307ae49014b70e550dd6324464523c4ca76 Last modified: Sun Jun 26 15:30:19 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\51\9af99af7f589eb067bff2da73ebd3600011d0c Last modified: Mon Jun 27 15:33:17 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\52
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\52\91ec5bbf3a6ce39334d73d0003d3dabe6c7a23 Last modified: Mon Jun 27 22:16:15 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\52\d289e367f2f7677b065f0c117e4ef3c7011d13 Last modified: Mon Jun 27 19:23:22 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\54
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\54\9b89bc11f3352147877813272e4e7b9b666491 Last modified: Wed Jun 22 22:29:16 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\54\cb35878f531408101e4d083bdfbddb373aae3b Last modified: Wed Jun 22 22:26:18 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\55
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\55\8bc9cf5017e540993735f84f89b934bc235d94 Last modified: Mon Jun 27 17:33:59 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\56
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\56\19ba3f1101dc8c1016b3cad7cc9ed02bb8c225 Last modified: Mon Jun 27 15:33:17 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\56\f2c17b8309591429857c425fb7c129cc588380 Last modified: Mon Jun 27 22:16:15 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\58
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\58\585a3dd74ab3ea16cb4b88284047e419547f98 Last modified: Wed Jun 22 22:29:16 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\58\cc330e2d6c601d09d934fd2dfede26cc1841cb Last modified: Mon Jun 27 15:30:25 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\59
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\59\8267d0da01ebbe46663afa7be1254a9cdee615 Last modified: Wed Jun 22 22:18:08 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\5a
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\5a\46b8daf5fcb25e3cf4158fb2452fb83ce68922 Last modified: Mon Jun 27 22:01:04 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\5a\f02b6c34589d3d64d3088f05060dea9fdb0434 Last modified: Mon Jun 27 19:35:09 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\5b
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\5b\69dfd1ae6a21c9b407d28099261c4a1c9e7a56 Last modified: Mon Jun 27 16:14:53 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\5b\db22a6632fb7e3f2528f97935462a2c87c1432 Last modified: Mon Jun 27 15:30:25 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\5c
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\5c\9a673aae5fb5304c17406a75cb78f8f344d9dc Last modified: Wed Jun 22 14:50:01 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\5e
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\5e\2d42b9cd7cb1cc73a06c810d5e19b6cc6a3618 Last modified: Mon Jun 27 16:14:53 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\5f
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\5f\1126be187c158701b469cf4e7019a8623229f4 Last modified: Sun Jun 26 19:55:24 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\5f\55b6b1984a118796869cb28435d71b67e6e6a0 Last modified: Sun Jun 26 19:55:24 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\5f\660dc4a1355d84e8ca7353f5e93b93c90bcb51 Last modified: Mon Jun 27 16:14:53 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\5f\f4973c4d083c0b86c79f12cfa2f6b11756a7ee Last modified: Mon Jun 27 22:01:48 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\61
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\61\bf44f2ee14d2590b43d96c8519823a36080115 Last modified: Mon Jun 27 22:16:15 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\62
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\62\2626691481ff72e6bded4bb5c3934a0a881288 Last modified: Wed Jun 22 22:33:21 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\62\2e30bd336c6bc02f25267480301f78b9723805 Last modified: Mon Jun 27 17:33:59 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\62\65ecc735075a290c3a9c31703c4620d116f0a1 Last modified: Mon Jun 27 19:03:07 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\62\cf7ef52c1a50bea6a8204e36f52ce33dea3e09 Last modified: Mon Jun 27 15:30:25 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\64
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\64\3d0f2b25d3c818bd978e076e26be1ff738ba96 Last modified: Mon Jun 27 19:35:09 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\65
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\65\e5f8216235469ff30e8d5d94a854b24763fbca Last modified: Mon Jun 27 22:01:48 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\66
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\66\2c468e2fa5d91ad9036a3beedb1d7523c96d3a Last modified: Mon Jun 27 16:14:53 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\66\c215f30e6309954f698ba3245c5ec7f6f124aa Last modified: Mon Jun 27 22:03:47 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\68
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\68\04fce3d9849746a810df8a597fbf4e57d6cf4a Last modified: Mon Jun 27 15:30:25 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\69
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\69\4f6aebe32b4ac6be5e19bade5c8e6ace011300 Last modified: Mon Jun 27 22:11:46 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\6a
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\6a\c1c42c6bddbae8d8a2b945ac4b3d58ed4807e2 Last modified: Wed Jun 22 21:55:45 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\6b
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\6b\4b0380b54fe587e11c06011208bfc8dd9cfc48 Last modified: Mon Jun 27 15:30:25 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\6c
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\6c\108a7c4d358be575a0dea58b234011423a1a2a Last modified: Mon Jun 27 15:30:25 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\6c\7c8ec90c94ba6b00a105e77ffae5f755baa857 Last modified: Mon Jun 27 15:30:25 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\6c\8eb9b7576b4ea1f1fe26855e4174948acc6bb2 Last modified: Mon Jun 27 22:11:46 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\6c\f9bf28cba7eabd05bc2b6277521d2b4a061b9d Last modified: Mon Jun 27 15:30:25 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\6d
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\6d\47d91510d7fe82d762a2fb044334ad1459d00f Last modified: Mon Jun 27 16:14:53 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\6e
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\6e\bba02f712e6201247f55bd7b81eefc83e62686 Last modified: Wed Jun 22 22:33:21 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\70
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\70\3db6b4f5cc43a58b12eadc0912b5cab6912e6d Last modified: Mon Jun 27 15:30:25 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\70\650d86ba6b3fbbb7d0d2e0be22cc920531f6fd Last modified: Mon Jun 27 22:00:46 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\71
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\71\1c63ad860fb0a45e635dfb28d48aa9e39a382f Last modified: Sun Jun 26 19:55:24 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\71\2ab9d985c20018a0c97b93d2148ac1ffe588a5 Last modified: Wed Jun 22 14:50:01 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\72
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\72\25dc89b27477368f9ff7ad0d1e17b2812447fa Last modified: Mon Jun 27 22:00:47 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\72\b13a9c6d90181367b299d25d179d2eca786b88 Last modified: Mon Jun 27 19:03:07 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\73
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\73\4365bb87d3dd67094693f2f9661188886c3dfa Last modified: Mon Jun 27 17:35:16 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\73\d5431402fdeb13e0d1805399b923865f791933 Last modified: Mon Jun 27 15:33:17 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\74
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\74\49aac4763eaa9ab63bf51d7b49e649361e38eb Last modified: Mon Jun 27 15:30:25 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\74\5f69cf7fb110ae25a1da6969a6497409445fb3 Last modified: Sun Jun 26 15:30:19 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\76
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\76\2ac564a9de4dbd843295acfec6af8bdf13c7d7 Last modified: Wed Jun 22 22:26:19 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\76\39053513a76f036a4930bb479346207aad4628 Last modified: Sun Jun 26 15:30:19 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\76\5bdeefdfad07cac5deb3e918020bc715886b47 Last modified: Sun Jun 26 15:30:19 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\76\90df539e723d304ed0799fcd31e35f5ca6bf7c Last modified: Mon Jun 27 16:35:48 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\78
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\78\24b6b625147aa460cf3a2e2a8aa956eaadf367 Last modified: Mon Jun 27 22:20:37 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\79
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\79\5bdc0f18e310bcde04a267da88e2e900820cb6 Last modified: Sun Jun 26 15:30:19 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\7b
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\7b\296c77d19e9ff497e4a4cca4dc7c2526d4a1ea Last modified: Mon Jun 27 19:10:44 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\7c
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\7c\9f7b6c78c270e26cd056a79ebc4a5dce730b0d Last modified: Sun Jun 26 19:55:24 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\7e
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\7e\6920566782f8c19259bad4fb6940b8133927c9 Last modified: Wed Jun 22 22:33:21 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\80
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\80\69958fd66b7d8924cf31799649574647e3d694 Last modified: Mon Jun 27 15:30:25 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\82
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\82\78c3d45b43fdff1a4f237e4b0f1877ddc1dba5 Last modified: Mon Jun 27 15:30:25 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\84
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\84\34ea7ac1845e9d6eee58f78655fb8c3fa299ac Last modified: Mon Jun 27 15:30:25 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\84\403e0d37d070963e5ff5a719525c1cf61092c1 Last modified: Wed Jun 22 22:29:16 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\84\6a9e3e4705c140c899e10afdf2432e56f32418 Last modified: Mon Jun 27 15:30:25 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\84\9868ddd4160a32523261d4673ef7075166af9e Last modified: Mon Jun 27 19:35:09 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\85
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\85\ab02ebb6966fe20c2c9fa32d2b14e03efa0f55 Last modified: Mon Jun 27 15:30:25 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\86
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\86\3011c2694f1238092e48465cdbf2f29a3c3905 Last modified: Sun Jun 26 15:30:19 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\86\48bc68c0d2971d0637a10ec7972612659beaf3 Last modified: Mon Jun 27 17:33:59 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\86\8763c97d0d04cf1cab674fb16787f6836d94ab Last modified: Mon Jun 27 19:03:07 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\86\d7e16e246a61bc8ebe97ad96e7e1d0cf990d55 Last modified: Mon Jun 27 15:30:25 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\87
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\87\9bc4c093137faf69a2b27b832ba8fba41d0e34 Last modified: Mon Jun 27 22:00:47 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\89
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\89\22d87354c787aaa7a81c8a3da0802c3e91a47b Last modified: Mon Jun 27 15:30:25 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\89\dab2f034c62bb61dce506a238bd0f41b96ea84 Last modified: Wed Jun 22 22:29:16 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\89\f8186ee747dd5f035ef3af9599f97bf42aa4b0 Last modified: Sun Jun 26 15:30:19 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\8a
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\8a\b93f373ea3b95727825413aa48d440f92b0b6d Last modified: Mon Jun 27 22:20:37 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\8c
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\8c\8609a2a2f0cec22febc4320825dc151f3dc88a Last modified: Mon Jun 27 22:01:48 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\8c\ddb47a146a3cf95e06d9fc4a791c929d267bc2 Last modified: Wed Jun 22 22:26:18 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\8d
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\8d\0fb88681355ea3580968b10f59d8b531fbe81d Last modified: Wed Jun 22 22:29:16 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\8d\2db450c700b2cdbc1453d5cbbec104a1a4f857 Last modified: Sun Jun 26 15:30:19 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\8d\87478f52de929503f25f8361161bbb26e4c0e3 Last modified: Mon Jun 27 16:13:52 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\8d\a5437c90b4fd6a3d61d8fc556f9c8c69c832c8 Last modified: Mon Jun 27 15:30:25 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\8d\d6251a1e9344a9009e28e1d9d2a03f747b34b8 Last modified: Mon Jun 27 22:01:04 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\8e
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\8e\64b452224b3f44dfffc086417b535bd032511a Last modified: Mon Jun 27 22:20:37 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\8e\e8d177062adc792c2e8c8228d8dc3657e829d9 Last modified: Wed Jun 22 22:33:21 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\8e\f8fca06120f96ddbbf6ce9d640fe828d786db0 Last modified: Wed Jun 22 22:33:21 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\91
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\91\8240cb6785d87204f2b3afd76a9f0fbba6e510 Last modified: Mon Jun 27 22:16:15 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\92
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\92\83d34292090c4355fb781b83950ff11ce777f9 Last modified: Wed Jun 22 22:18:08 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\93
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\93\83f71138fd7e4039ed2123a03f9e591a1b3e94 Last modified: Mon Jun 27 22:01:48 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\93\e14a34c34dc7ddfc0773dd446f9e680f579faf Last modified: Mon Jun 27 15:30:25 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\94
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\94\ff9abb1c14e61a321dca04c579be5c9e5e8597 Last modified: Mon Jun 27 15:30:25 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\95
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\95\08d974863d488568051b7c051108a097354fac Last modified: Wed Jun 22 21:56:04 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\95\2381145fc6830eb4e91cad975fc8687129ac9b Last modified: Mon Jun 27 15:30:25 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\95\539ba9d07a2cb6c32743477896fca466c262b9 Last modified: Sun Jun 26 19:55:24 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\95\663c9216a0a758af79b1cc3d30b6bf0da5389b Last modified: Mon Jun 27 19:35:09 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\96
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\96\5c628b0dca0221596062d4dcb61efaf99dbb60 Last modified: Sun Jun 26 19:55:24 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\96\f5a2bbcf65ff1cfb4250ed51593c6bd130e646 Last modified: Sun Jun 26 19:55:24 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\97
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\97\070813db58e7197dec8d56d857f68be08d9451 Last modified: Sun Jun 26 15:30:19 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\97\9022afedcf6428868776e10fb72e9026657fe4 Last modified: Sun Jun 26 15:30:19 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\99
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\99\a06ecf1048c1dd126730596e856b4f2a9b71e8 Last modified: Mon Jun 27 22:01:04 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\99\b09717ae5abc14a3c41f19d48a0a4a7cfd6083 Last modified: Mon Jun 27 22:01:48 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\9a
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\9a\3866e8bc9caf7d154a0651af68cd2c9110854f Last modified: Mon Jun 27 21:57:03 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\9b
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\9b\0522d9120a856582e53653dfb816fa882491c4 Last modified: Mon Jun 27 15:30:25 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\9b\0deef1627d29fd972aa2cd5e2575d2eed021b8 Last modified: Mon Jun 27 15:30:25 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\9b\60e5e93c6d03ac1fd2cff2d302e9dfc1d9d73b Last modified: Mon Jun 27 22:00:47 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\9b\6a6b2ecd3c0803e593417f186c010aefa47915 Last modified: Mon Jun 27 16:44:28 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\9b\dad3f068143eeba21b957f1ab8e889704d8dda Last modified: Sun Jun 26 19:55:24 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\9c
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\9c\10cf9bb74350680e53648bb4f8e92753cea3c6 Last modified: Mon Jun 27 17:35:16 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\9d
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\9d\33261f201f4c5eebf8df1e552c839731d35545 Last modified: Sun Jun 26 15:30:19 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\9d\e947d62afa67ed95b1c5d6334fb4fb9d736663 Last modified: Mon Jun 27 15:30:25 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\9e
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\9e\7684b99400bf7f5af65d00c817796eb5728451 Last modified: Mon Jun 27 22:20:37 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\9e\a5fa3fa02a529ced5b192f078ba824533af7e4 Last modified: Mon Jun 27 15:30:25 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\9f
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\9f\37364e57420c86caa26eca1239ed0552f1def6 Last modified: Mon Jun 27 15:30:25 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\9f\8015539fa36d58b2eee3421cf5943f9d860b4b Last modified: Mon Jun 27 15:30:25 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\a0
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\a0\b6bdecbbc591c67c68d6012b57665c5cf4fba4 Last modified: Mon Jun 27 15:30:25 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\a0\fb84395815336045fdbdcd5559ec1a9893581f Last modified: Mon Jun 27 15:30:25 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\a1
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\a1\1f1399295556b1bf148bb8491d434d5e60dd27 Last modified: Mon Jun 27 19:35:09 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\a1\5901a7cbeec1518bb1b9d76341492150416de3 Last modified: Mon Jun 27 16:14:53 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\a2
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\a2\768872f9f6854bb8e5a67f2a353d17af947619 Last modified: Mon Jun 27 15:30:25 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\a3
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\a3\522b1b43e7de5318d1b0beacc5b62aaf13f47c Last modified: Mon Jun 27 22:03:47 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\a3\b91b3650f53f09ff3d08328b10eb39e6cd3ebe Last modified: Mon Jun 27 22:16:15 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\a4
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\a4\2120da7d3a0b07039955560f0883dd9e3fb951 Last modified: Mon Jun 27 22:16:15 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\a4\54dadc670b3433a051992ae5c48d1f94310515 Last modified: Sun Jun 26 19:55:24 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\a4\f7b330400052c388086d7041e96a2f2c187993 Last modified: Wed Jun 22 22:18:08 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\a4\fa3a8ac0e502f9128d4e0e0a96d9f26087bc02 Last modified: Wed Jun 22 14:52:40 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\a5
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\a5\f068ce50c43ea3349b3c9e14338709479793cf Last modified: Mon Jun 27 19:03:07 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\a6
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\a6\0fe5212d4b5a0f2da5947883be0e23b1b239de Last modified: Mon Jun 27 15:30:25 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\a7
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\a7\2848c5ef36888c426d61380d744e32bf970f90 Last modified: Mon Jun 27 15:30:25 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\a8
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\a8\f33a4169f2a0fb18b6851c47954d382a0565b4 Last modified: Sun Jun 26 15:30:19 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\a9
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\a9\4346a8239a90142f912112d3d920257ae2a00f Last modified: Mon Jun 27 22:11:46 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\aa
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\aa\97a587a6b70b399e38c9a44891cc2c043494dc Last modified: Mon Jun 27 15:30:25 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\aa\da1da92d8b5a65ea53a2f5ffc0f31f08cd82ab Last modified: Sun Jun 26 15:30:19 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\aa\f62ba633a7ed780517fc7c50fd4bf0e2b3e351 Last modified: Mon Jun 27 15:30:25 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\ab
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\ab\20f945ff8e614adb07b7cd996f9ed70c3982e4 Last modified: Wed Jun 22 22:18:08 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\ab\58208994a6c1fd9432449a96c6a6a376dc074b Last modified: Mon Jun 27 15:30:25 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\ac
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\ac\656d3362fb8e2cf803b1e3a6857f71658acb54 Last modified: Mon Jun 27 22:11:46 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\ad
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\ad\9e9db1858dc98701b79072ac5fc37edd6b5284 Last modified: Mon Jun 27 22:20:37 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\ae
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\ae\eab5d669ff1e057a2f84f1b7240733364bdbd2 Last modified: Wed Jun 22 22:26:18 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\af
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\af\6730ed234803267c7c55cabfeb707e2f52ebfa Last modified: Sun Jun 26 15:30:19 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\af\8dce1f00ba83bedd4d3e431e40d5ba330d7128 Last modified: Sun Jun 26 19:55:24 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\b0
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\b0\60429b9bf917997b3aab33694c045fb5ec9477 Last modified: Mon Jun 27 15:30:25 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\b1
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\b1\178d491899bf9eac3852428d8e63d5dd0012e3 Last modified: Sun Jun 26 15:30:19 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\b1\184a6a4d7fd6e1a79075cf87e9d6f9d8a3f29e Last modified: Mon Jun 27 22:01:48 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\b2
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\b2\714d9d82422ceec31eb928bb1b6de4014bcee3 Last modified: Mon Jun 27 22:01:04 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\b2\c3ed09148526cf786df606fba874ac703e0de8 Last modified: Mon Jun 27 15:30:25 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\b3
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\b3\108d0057548feb9835bcd8d659911fa54ece16 Last modified: Mon Jun 27 19:10:44 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\b3\f8184c3a97968255d348932f9596fa17d7bb4d Last modified: Wed Jun 22 22:18:08 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\b4
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\b4\0cb54ead3e0dee1e8ddfee7d8b8c8bada141c4 Last modified: Mon Jun 27 15:30:25 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\b4\8e51a22c658e5924bc475159336c5c99b1b41f Last modified: Mon Jun 27 15:30:25 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\b5
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\b5\6011ea332db7a902f9b0e8e4de0d43b853fa20 Last modified: Mon Jun 27 22:16:15 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\b5\994ed8d9b8069f3dc70ed3121d6d8e699a7ee6 Last modified: Mon Jun 27 22:11:46 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\b6
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\b6\11cb6e887cf445c4f928f3641a18403864375c Last modified: Wed Jun 22 22:33:21 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\b6\22dd677acd98e6597be8eb5446542d8261621f Last modified: Mon Jun 27 15:30:25 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\b6\3e210228edfcc33468089d7787d5285294bd93 Last modified: Mon Jun 27 15:30:25 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\b6\4191c366b8934b4f2414bbbf3c5c314ffa8ca8 Last modified: Mon Jun 27 15:30:25 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\b6\7faf25036bff3cd9a884f1130c86ba7bd1e4fb Last modified: Mon Jun 27 19:03:07 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\b7
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\b7\5215c3c36e98e631e1fb740909f8e41c30db6b Last modified: Sun Jun 26 19:55:24 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\b8
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\b8\77e3ee294ede301de25b692da5a0ad9adf3b85 Last modified: Mon Jun 27 19:10:44 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\ba
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\ba\120978aa63ce3a73f3ed250aa13df2b0111ebf Last modified: Wed Jun 22 22:18:08 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\ba\3705bb8eecb178fdcd41c1fae1d594d3d9415d Last modified: Mon Jun 27 17:33:59 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\bc
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\bc\b7a0997bf8c28f780e7c02f823a6753ca3d9d8 Last modified: Mon Jun 27 15:30:25 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\bf
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\bf\648a59a3900b366418152722442bcfdf387d36 Last modified: Mon Jun 27 19:10:44 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\c0
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\c0\2a957be4582e099b97ae8dab624af7ae487112 Last modified: Mon Jun 27 15:30:25 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\c1
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\c1\24be193d9812d51a1174c73557c3a261a2e700 Last modified: Mon Jun 27 16:14:53 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\c5
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\c5\115b40506c77f1622aecd654046aff5a8f3077 Last modified: Wed Jun 22 22:18:08 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\c6
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\c6\0f57e609bede83c5daf6898d52f79b55f8044f Last modified: Sun Jun 26 15:30:19 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\c6\ca46007f2a2b59951fa809483d669505b2cdf6 Last modified: Mon Jun 27 17:33:59 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\c8
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\c8\2413b08fc3298b348729d2cd08d773fee3322c Last modified: Mon Jun 27 22:16:15 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\c8\7e3a93a51835484bbab0f17ac5714784f51982 Last modified: Mon Jun 27 19:35:09 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\c9
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\c9\a5669e7a18e291956b3cd71ce93a43006b77f8 Last modified: Mon Jun 27 22:11:46 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\c9\b6739d56588fc4d2574bb945cab36197b1dfc5 Last modified: Wed Jun 22 22:18:08 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\ca
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\ca\4f4a351897a5676af11174d236e02052ad0836 Last modified: Wed Jun 22 22:26:19 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\cc
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\cc\a22e008ed8bb4eefd25a06fcd6ec770d6a0d23 Last modified: Sun Jun 26 15:30:19 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\cd
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\cd\38e894362da70c45d10693d843925a9787b623 Last modified: Mon Jun 27 15:30:25 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\ce
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\ce\a40da97b2a2fa478a0f3a33f46920a3da11a21 Last modified: Mon Jun 27 15:30:25 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\cf
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\cf\2610b8dd81ca2c7d2b468588efcd2048b84757 Last modified: Sun Jun 26 15:30:19 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\cf\b7678d125e0d2d77405fe6855fd2cf20c629db Last modified: Sun Jun 26 15:30:19 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\d0
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\d0\4b229470714f97c0a88fa46d37ebbd7b3b6580 Last modified: Mon Jun 27 15:30:25 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\d0\fe694469c8054f7d87a9c5aac406d880de5d36 Last modified: Sun Jun 26 19:55:24 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\d1
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\d1\a6ad79592d6c64c797cc9be474c206ad990cae Last modified: Mon Jun 27 15:30:25 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\d3
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\d3\6815d1e4b149e961d27d36870e278209f7ff23 Last modified: Sun Jun 26 19:55:24 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\d6
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\d6\409a2015cbde644535fc0f5012ae59a0f92c90 Last modified: Mon Jun 27 22:20:37 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\d6\5b975d97e6524ef3398bcf08d91940e015df6d Last modified: Sun Jun 26 19:55:24 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\d6\ebd4805981b8400db3e3291c74a743fef9a824 Last modified: Wed Jun 22 14:50:01 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\d7
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\d7\7651e9d16d1423f7b8970c03a464bf2d5ca9f7 Last modified: Mon Jun 27 22:00:47 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\d8
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\d8\48ad6e18ffe5b7f3219a449963efcecfd44004 Last modified: Mon Jun 27 19:10:44 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\d9
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\d9\3800c37242cf4817c29f0e27b8d21dbfb9ab7e Last modified: Mon Jun 27 15:30:25 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\d9\adc386d9a450c682aaa9fba50dd567d1ebe229 Last modified: Sun Jun 26 19:55:24 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\d9\c92e1136f085aa306b00ba42a00fb272d6738e Last modified: Sun Jun 26 15:30:19 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\da
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\da\f5ee1e2a1afb59fb4e3518d3793eae50d3190c Last modified: Wed Jun 22 22:29:16 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\dc
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\dc\337a0d9b04bf87261a1230fb3d9b52d5283d61 Last modified: Mon Jun 27 22:01:48 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\dc\465ecaba727d312f8daa7fc80a006cac8e6865 Last modified: Mon Jun 27 22:20:37 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\dc\730b2664c718afdaa808dc7e23c74c4de1c7ea Last modified: Sun Jun 26 19:55:24 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\dc\751c05d60b208f059f5e7a0839db10c171cb37 Last modified: Sun Jun 26 15:30:19 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\dd
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\dd\3e6bd2faf550ef1ee3a8207f070fcce2a863e0 Last modified: Mon Jun 27 15:30:25 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\dd\bf204a211e8d5dc373a3989a461e3fc793c70a Last modified: Wed Jun 22 22:33:21 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\dd\c5af8f44631830e15a877805edb8ceae452aa2 Last modified: Mon Jun 27 21:58:47 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\de
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\de\97c93d85e5fd750171558c08cef69b11800368 Last modified: Mon Jun 27 16:33:10 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\df
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\df\198fe93a239e7ad2a5ccda29bff23b5a1a4a26 Last modified: Wed Jun 22 22:18:08 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\e1
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\e1\6b9353042cccadcd473fdba29b9642a1942d5d Last modified: Mon Jun 27 15:30:25 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\e1\aabdeae8beeeb4ae018d257d52dcd8818db50b Last modified: Sun Jun 26 15:30:19 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\e2
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\e2\28f25edc23fe12b5ec2f8d22b15348d0dbdc60 Last modified: Mon Jun 27 22:11:46 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\e2\9d417dd72dcf5b2d2ae315d6e71a1ba543c58b Last modified: Sun Jun 26 19:55:24 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\e3
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\e3\0eec79ae4ae94d934783d5d1ffe6b7a868ea08 Last modified: Mon Jun 27 15:30:25 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\e3\2b7ff22e10ed6e22539f140e2a9ef846be6115 Last modified: Sun Jun 26 15:30:19 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\e3\91f08974d3446f9e1d2d3cc142baac7efdb8b7 Last modified: Sun Jun 26 19:55:24 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\e4
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\e4\11ac71c48b4e915b769912992816e31a232d72 Last modified: Wed Jun 22 22:18:08 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\e4\779825670cc1a7549c969db2cd5a98456f16d7 Last modified: Mon Jun 27 17:33:59 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\e5
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\e5\42ba6ed2a09ad8ef2cb696d1c833274543e87d Last modified: Mon Jun 27 16:14:53 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\e6
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\e6\089d924f79739cc2d1f6d910278418f71355c9 Last modified: Sun Jun 26 19:55:24 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\e6\9de29bb2d1d6434b8b29ae775ad8c2e48c5391 Last modified: Mon Jun 27 19:35:09 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\e6\d3ebb0a789eb74c9e216685aabb7d069effb44 Last modified: Mon Jun 27 15:30:25 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\e7
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\e7\29adf6b1d30fd0561194af1de37f5a3396aca1 Last modified: Mon Jun 27 19:10:44 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\e9
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\e9\7c0ac90c0d0415b03451c4f588449d1384cce3 Last modified: Mon Jun 27 17:33:59 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\e9\abf1af1876bdf5016fb77755aad6b8e76d515f Last modified: Sun Jun 26 15:30:19 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\ea
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\ea\44c3172f0e51ed68a14d3ec4c68f72179ee04d Last modified: Mon Jun 27 22:16:15 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\ea\50c916aeb04595e5be7a9e1ac3238a3d1405a3 Last modified: Mon Jun 27 15:30:25 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\ea\d0eb675fb2d5d14b13c700066abc5e3826cdc9 Last modified: Mon Jun 27 22:20:37 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\eb
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\eb\57c4111bb1d5a80c866180c74bd13752b78b2b Last modified: Mon Jun 27 15:30:25 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\eb\9cf7e69d4b285773f64498409f713883284e1c Last modified: Wed Jun 22 14:50:01 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\eb\be4f55e4a6e1514e70c1ec599b78b2af281b54 Last modified: Wed Jun 22 22:18:08 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\ec
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\ec\3af3e97348ce6538c5d51713b6de5df43a70d0 Last modified: Mon Jun 27 19:35:09 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\ec\86d7645822086026c11a14a21b37368dd2b2fd Last modified: Mon Jun 27 15:30:25 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\ed
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\ed\413d8a9f33df757fe82875cc45d5c5c81ad06e Last modified: Mon Jun 27 22:03:47 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\ed\b2e3e2c1a87cab118ba92767e380ab9415927c Last modified: Mon Jun 27 15:30:25 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\ed\b64fb54129e3ba49d8653026ddc938ef176ad9 Last modified: Mon Jun 27 22:00:46 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\ee
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\ee\07e8bedf079959392817521d4232c8527a9a2f Last modified: Sun Jun 26 15:30:19 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\ee\95c7b66744e132454343805fa1ece04a14468f Last modified: Mon Jun 27 22:16:15 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\ee\b1d3b2a442bc4fb14f7ceb46fab52f536c1505 Last modified: Mon Jun 27 15:30:25 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\f0
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\f0\26536aa49c77db9580d4d69b86079d6308b0df Last modified: Wed Jun 22 22:26:18 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\f1
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\f1\fb81d51af061e38d38435383f6905ea12f04c6 Last modified: Mon Jun 27 22:01:48 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\f2
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\f2\3a7b55bf6a6a1a9ca7f5afc9e4a56628b7258a Last modified: Sun Jun 26 15:30:19 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\f2\e175508c4782e06db7d5c41642fdfc756f3ed7 Last modified: Mon Jun 27 15:30:25 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\f3
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\f3\097a49199d23e31387f52294ff03ee4e0ecb8f Last modified: Sun Jun 26 15:30:19 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\f4
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\f4\2f398ebcfc7fb71f970fc991dbbbb5c022d080 Last modified: Mon Jun 27 15:30:25 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\f4\84f2810db93750a24cd90e9002729afcdeb4a9 Last modified: Mon Jun 27 15:30:25 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\f5
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\f5\caed7c174860aa7d3c51bfed80d024e4e6e995 Last modified: Mon Jun 27 19:35:09 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\f6
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\f6\2c059f473a62afd4097f66b6664600a6e6e138 Last modified: Mon Jun 27 17:33:59 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\f6\437e970d1f83ce8986ad782935b35d763038e0 Last modified: Mon Jun 27 22:20:37 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\f8
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\f8\84084103eef44b9ae0cbdbc840fe2e5c442d6f Last modified: Sun Jun 26 15:30:19 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\f9
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\f9\4050662a7aec9913c0146345e12499f904bdd8 Last modified: Mon Jun 27 22:01:04 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\f9\4fc5a057a5096b5e1531495463b3c7a531294b Last modified: Wed Jun 22 15:22:17 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\fb
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\fb\0f9bb92c18d63a705101cc1b6814140c9777ca Last modified: Mon Jun 27 22:03:47 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\fb\153da52ceb00d2d26911c8c560329b679c6050 Last modified: Mon Jun 27 16:14:53 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\fb\c1b1635a2c69174f8bea7d6306f5175015adc0 Last modified: Wed Jun 22 21:55:45 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\fb\c91f1d8dde96b3eced3b88c5d9630d55356829 Last modified: Mon Jun 27 19:10:44 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\fc
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\fc\249e8fcbcaf4521aaf640d11a3231532a6bc14 Last modified: Mon Jun 27 19:10:44 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\fc\c764058c7aefe8f0c9ec0e0c18da6fc0ca6be1 Last modified: Mon Jun 27 17:33:59 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\fd
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\fd\485eaf94dc5192828d1e5ec28a8397f4d492d8 Last modified: Mon Jun 27 19:03:07 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\fd\f71d96575f5f0dd07e620321d13f422c12f2a5 Last modified: Mon Jun 27 22:16:15 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\fe
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\fe\999b659dccba7ca8c98cbca3620376ea444c73 Last modified: Sun Jun 26 15:30:19 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\ff
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\ff\16beb23250043544171fff5ea5abc4003df86a Last modified: Mon Jun 27 15:30:25 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\ff\3bd31c8bf58add708b11ad2ad9a65579d7d8f4 Last modified: Sun Jun 26 15:30:19 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\ff\f2122f1235cd17c5aa8abe98491309559e19c6 Last modified: Mon Jun 27 15:33:17 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\info
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\pack
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\pack\pack-a203124f91edecbf1aa9247f7f960875f9a9c26b.idx Last modified: Wed Jun 22 14:48:03 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\objects\pack\pack-a203124f91edecbf1aa9247f7f960875f9a9c26b.pack Last modified: Wed Jun 22 14:48:03 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\ORIG_HEAD Last modified: Mon Jun 27 15:31:48 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\packed-refs Last modified: Wed Jun 22 14:48:03 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\refs
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\refs\heads
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\refs\heads\main Last modified: Mon Jun 27 22:20:37 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\refs\remotes
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\refs\remotes\origin
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\refs\remotes\origin\HEAD Last modified: Wed Jun 22 14:48:03 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\refs\remotes\origin\main Last modified: Mon Jun 27 22:20:40 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.git\refs\tags
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.idea
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.idea\.gitignore Last modified: Wed Jun 22 14:48:43 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.idea\compiler.xml Last modified: Mon Jun 27 17:35:47 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.idea\jarRepositories.xml Last modified: Wed Jun 22 14:48:43 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.idea\misc.xml Last modified: Mon Jun 27 17:35:47 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.idea\modules.xml Last modified: Mon Jun 27 16:18:59 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.idea\Tasca-S1.05.iml Last modified: Wed Jun 22 14:48:43 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.idea\vcs.xml Last modified: Wed Jun 22 14:48:43 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\.idea\workspace.xml Last modified: Mon Jun 27 22:23:38 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex1
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex1\pom.xml Last modified: Mon Jun 27 15:31:48 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex1\src
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex1\src\main
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex1\src\main\java
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex1\src\main\java\n1ex1
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex1\src\main\java\n1ex1\GestioDirectori.java Last modified: Mon Jun 27 22:11:45 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex1\src\main\java\n1ex1\Main.java Last modified: Mon Jun 27 22:11:34 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex1\src\main\test
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex1\src\main\test\DirectorisTest.java Last modified: Mon Jun 27 15:31:48 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex1\target
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex1\target\classes
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex1\target\classes\n1ex1
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex1\target\classes\n1ex1\GestioDirectori.class Last modified: Mon Jun 27 15:32:30 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex1\target\classes\n1ex1\Main.class Last modified: Mon Jun 27 15:32:30 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex1\target\generated-sources
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex1\target\generated-sources\annotations
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex1\target\generated-test-sources
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex1\target\generated-test-sources\test-annotations
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex1\target\maven-status
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex1\target\maven-status\maven-compiler-plugin
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex1\target\maven-status\maven-compiler-plugin\compile
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex1\target\maven-status\maven-compiler-plugin\compile\default-compile
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex1\target\maven-status\maven-compiler-plugin\compile\default-compile\createdFiles.lst Last modified: Sun Jun 26 15:47:14 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex1\target\maven-status\maven-compiler-plugin\compile\default-compile\inputFiles.lst Last modified: Sun Jun 26 15:42:54 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex1\target\test-classes
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex1\target\test-classes\DirectorisTest.class Last modified: Mon Jun 27 15:32:30 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex2
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex2\pom.xml Last modified: Mon Jun 27 15:31:48 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex2\src
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex2\src\main
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex2\src\main\java
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex2\src\main\java\org
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex2\src\main\java\org\n1ex2
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex2\src\main\java\org\n1ex2\GestioDirectoris.java Last modified: Mon Jun 27 22:16:14 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex2\src\main\java\org\n1ex2\Main.java Last modified: Mon Jun 27 22:14:05 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex2\target
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex2\target\classes
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex2\target\classes\org
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex2\target\classes\org\n1ex2
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex2\target\classes\org\n1ex2\FileWalker.class Last modified: Mon Jun 27 15:32:30 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex2\target\classes\org\n1ex2\GestioDirectoris.class Last modified: Mon Jun 27 15:32:30 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex2\target\classes\org\n1ex2\Main.class Last modified: Mon Jun 27 15:32:30 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex2\target\generated-sources
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex2\target\generated-sources\annotations
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex2\target\maven-status
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex2\target\maven-status\maven-compiler-plugin
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex2\target\maven-status\maven-compiler-plugin\compile
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex2\target\maven-status\maven-compiler-plugin\compile\default-compile
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex2\target\maven-status\maven-compiler-plugin\compile\default-compile\createdFiles.lst Last modified: Sun Jun 26 15:51:40 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex2\target\maven-status\maven-compiler-plugin\compile\default-compile\inputFiles.lst Last modified: Sun Jun 26 15:54:05 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex3
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex3\directoris.txt Last modified: Mon Jun 27 15:31:48 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex3\pom.xml Last modified: Mon Jun 27 15:31:48 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex3\src
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex3\src\main
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex3\src\main\java
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex3\src\main\java\org
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex3\src\main\java\org\n1ex3
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex3\src\main\java\org\n1ex3\GestioDirectoris.java Last modified: Mon Jun 27 22:16:14 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex3\src\main\java\org\n1ex3\Main.java Last modified: Mon Jun 27 22:16:14 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex3\target
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex3\target\classes
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex3\target\classes\org
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex3\target\classes\org\n1ex3
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex3\target\classes\org\n1ex3\GestioDirectoris.class Last modified: Mon Jun 27 15:32:30 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex3\target\classes\org\n1ex3\Main.class Last modified: Mon Jun 27 15:32:30 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex3\target\generated-sources
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex3\target\generated-sources\annotations
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex4
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex4\pom.xml Last modified: Mon Jun 27 15:31:48 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex4\src
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex4\src\main
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex4\src\main\java
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex4\src\main\java\org
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex4\src\main\java\org\n1ex4
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex4\src\main\java\org\n1ex4\GestioDirectoris.java Last modified: Mon Jun 27 22:20:36 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex4\src\main\java\org\n1ex4\Main.java Last modified: Mon Jun 27 15:31:48 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex4\src\main\resources
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex4\src\main\resources\directoris.txt Last modified: Mon Jun 27 15:31:48 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex4\target
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex4\target\classes
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex4\target\classes\directoris.txt Last modified: Mon Jun 27 15:31:48 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex4\target\classes\org
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex4\target\classes\org\n1ex4
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex4\target\classes\org\n1ex4\GestioDirectoris.class Last modified: Mon Jun 27 15:32:29 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex4\target\classes\org\n1ex4\Main.class Last modified: Mon Jun 27 15:32:29 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex4\target\generated-sources
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex4\target\generated-sources\annotations
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex5
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex5\pom.xml Last modified: Mon Jun 27 15:31:48 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex5\prova.ser Last modified: Mon Jun 27 16:10:26 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex5\src
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex5\src\main
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex5\src\main\java
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex5\src\main\java\org
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex5\src\main\java\org\n1ex5
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex5\src\main\java\org\n1ex5\GestioDirectoris.java Last modified: Mon Jun 27 22:20:36 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex5\src\main\java\org\n1ex5\Main.java Last modified: Mon Jun 27 22:20:36 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex5\src\main\java\org\n1ex5\Persona.java Last modified: Mon Jun 27 15:31:48 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex5\src\test
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex5\src\test\java
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex5\src\test\java\SerialitzaTest.java Last modified: Mon Jun 27 15:49:21 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex5\src\test\TestResources
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex5\target
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex5\target\classes
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex5\target\classes\org
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex5\target\classes\org\n1ex5
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex5\target\classes\org\n1ex5\GestioDirectoris.class Last modified: Mon Jun 27 16:13:14 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex5\target\classes\org\n1ex5\Main.class Last modified: Mon Jun 27 16:12:18 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex5\target\classes\org\n1ex5\Persona.class Last modified: Mon Jun 27 16:11:46 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex5\target\generated-sources
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex5\target\generated-sources\annotations
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex5\target\generated-test-sources
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex5\target\generated-test-sources\test-annotations
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex5\target\maven-status
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex5\target\maven-status\maven-compiler-plugin
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex5\target\maven-status\maven-compiler-plugin\compile
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex5\target\maven-status\maven-compiler-plugin\compile\default-compile
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex5\target\maven-status\maven-compiler-plugin\compile\default-compile\createdFiles.lst Last modified: Mon Jun 27 16:11:46 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex5\target\maven-status\maven-compiler-plugin\compile\default-compile\inputFiles.lst Last modified: Mon Jun 27 16:11:46 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex5\target\maven-status\maven-compiler-plugin\testCompile
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex5\target\maven-status\maven-compiler-plugin\testCompile\default-testCompile
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex5\target\maven-status\maven-compiler-plugin\testCompile\default-testCompile\createdFiles.lst Last modified: Mon Jun 27 16:11:46 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex5\target\maven-status\maven-compiler-plugin\testCompile\default-testCompile\inputFiles.lst Last modified: Mon Jun 27 16:11:46 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex5\target\surefire-reports
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex5\target\surefire-reports\SerialitzaTest.txt Last modified: Mon Jun 27 16:11:48 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex5\target\surefire-reports\TEST-SerialitzaTest.xml Last modified: Mon Jun 27 16:11:48 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex5\target\test-classes
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex5\target\test-classes\SerialitzaTest.class Last modified: Mon Jun 27 16:12:19 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex5\test.ser Last modified: Mon Jun 27 16:13:47 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n2ex1
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n2ex1\directoris.properties Last modified: Mon Jun 27 17:22:36 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n2ex1\directoris.txt Last modified: Mon Jun 27 22:23:40 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n2ex1\pom.xml Last modified: Mon Jun 27 17:06:53 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n2ex1\src
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n2ex1\src\main
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n2ex1\src\main\java
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n2ex1\src\main\java\org
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n2ex1\src\main\java\org\n2ex1
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n2ex1\src\main\java\org\n2ex1\GestioDirectoris.java Last modified: Mon Jun 27 22:23:38 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n2ex1\src\main\java\org\n2ex1\Main.java Last modified: Mon Jun 27 17:30:55 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n2ex1\src\main\resources
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n2ex1\src\test
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n2ex1\src\test\java
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n2ex1\target
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n2ex1\target\classes
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n2ex1\target\classes\org
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n2ex1\target\classes\org\n2ex1
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n2ex1\target\classes\org\n2ex1\GestioDirectoris.class Last modified: Mon Jun 27 22:23:39 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n2ex1\target\classes\org\n2ex1\Main.class Last modified: Mon Jun 27 17:30:56 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n2ex1\target\generated-sources
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n2ex1\target\generated-sources\annotations
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n2ex1\target\maven-status
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n2ex1\target\maven-status\maven-compiler-plugin
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n2ex1\target\maven-status\maven-compiler-plugin\compile
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n2ex1\target\maven-status\maven-compiler-plugin\compile\default-compile
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n2ex1\target\maven-status\maven-compiler-plugin\compile\default-compile\createdFiles.lst Last modified: Mon Jun 27 16:34:47 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n2ex1\target\maven-status\maven-compiler-plugin\compile\default-compile\inputFiles.lst Last modified: Mon Jun 27 16:35:36 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n3ex1
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n3ex1\desencriptat.txt Last modified: Mon Jun 27 21:58:46 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n3ex1\encriptat.txt Last modified: Mon Jun 27 21:58:46 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n3ex1\pom.xml Last modified: Mon Jun 27 17:44:37 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n3ex1\src
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n3ex1\src\main
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n3ex1\src\main\java
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n3ex1\src\main\java\org
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n3ex1\src\main\java\org\n3ex1
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n3ex1\src\main\java\org\n3ex1\Encriptacio.java Last modified: Mon Jun 27 22:03:46 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n3ex1\src\main\java\org\n3ex1\Main.java Last modified: Mon Jun 27 22:00:17 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n3ex1\src\main\resources
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n3ex1\src\main\resources\directoris.txt Last modified: Mon Jun 27 21:55:29 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n3ex1\src\test
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n3ex1\src\test\java
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n3ex1\target
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n3ex1\target\classes
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n3ex1\target\classes\directoris.txt Last modified: Mon Jun 27 21:55:29 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n3ex1\target\classes\org
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n3ex1\target\classes\org\n3ex1
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n3ex1\target\classes\org\n3ex1\Encriptacio.class Last modified: Mon Jun 27 21:57:01 CEST 2022
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n3ex1\target\classes\org\n3ex1\Main.class Last modified: Mon Jun 27 21:58:45 CEST 2022
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n3ex1\target\generated-sources
+[D] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n3ex1\target\generated-sources\annotations
+[F] C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\readme.txt Last modified: Mon Jun 27 15:31:48 CEST 2022

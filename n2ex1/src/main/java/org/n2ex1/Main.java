@@ -24,8 +24,5 @@ public class Main {
         } catch (ConfigurationException e) {
             e.printStackTrace();
         }
-
-
-
     }
 }

@@ -28,15 +28,9 @@ public class GestioDirectoris {
 
         //Amb Java
 
-        /*
-        try (DirectoryStream<Path> stream = Files.newDirectoryStream(Paths.get(dirName))) {
-        }
-         */
-
         List<File> directorisListJava = new ArrayList<>();
 
         try (Stream<Path> stream = Files.list(Paths.get(dirName))) {
-            //stream.forEach(System.out::println);
             directorisListJava = stream.map(Path::toFile).sorted().toList();
         } catch (IOException e) {
             e.printStackTrace();
@@ -49,15 +43,16 @@ public class GestioDirectoris {
         //Amb la llibreria de commons-io
 
         //listFilesAndDirs(file(dirname), filefilter, optional dirfilter - null: no subdirectoris)
-        Collection<File> directorisCollection =  FileUtils.listFilesAndDirs(new File(dirName), TRUE, null);
+        Collection<File> directorisCollection = FileUtils.listFilesAndDirs(new File(dirName), TrueFileFilter.TRUE, null);
         List<File> directorisListApache = new ArrayList<>(directorisCollection);
         Collections.sort(directorisListApache);
         return directorisListApache;
 
     }
 
-    public void mostraDirectorisRecursiuAlfabeticApache(String dirName) {
+    public void mostraDirectorisRecursiuAlfabetic(String dirName) {
 
+        //TRUE -> No filtra cap arxiu/directori; INSTANCE -> match all directories (recursiu)
         Collection<File> files = FileUtils.listFilesAndDirs(new File(dirName), TRUE, INSTANCE);
         List<File> filesList = new ArrayList<>(files);
 
@@ -70,7 +65,6 @@ public class GestioDirectoris {
                 System.out.println("[F] " + file + " Last modified: " + new Date(file.lastModified()));
             }
         });
-
     }
 
     public void guardaDirectorisTXT(String inputDir, String outputName, String outputDir) {
@@ -80,10 +74,10 @@ public class GestioDirectoris {
 
         Collections.sort(filesList);
 
-        outputDir = outputDir + "\\";
+        outputDir += "\\";
         File outputFile = new File(outputDir, outputName);
 
-        filesList.forEach(file -> {
+        for (File file : filesList) {
             if (file.isDirectory()) {
                 try {
                     FileUtils.writeStringToFile(outputFile, "[D] " + file + "\n", "UTF-8", true);
@@ -97,8 +91,6 @@ public class GestioDirectoris {
                     e.printStackTrace();
                 }
             }
-        });
-
+        }
     }
-
 }
