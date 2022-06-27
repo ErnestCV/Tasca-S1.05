@@ -120,7 +120,7 @@ public class GestioDirectoris {
     public void serialitzaObjecte(Object object, String fileName) {
 
         try {
-            FileOutputStream fileOutputStream = new FileOutputStream("n1ex5\\" + fileName);
+            FileOutputStream fileOutputStream = new FileOutputStream(fileName);
             ObjectOutputStream objectOutputStream = new ObjectOutputStream(fileOutputStream);
             objectOutputStream.writeObject(object);
             objectOutputStream.flush();
@@ -133,7 +133,7 @@ public class GestioDirectoris {
     public Persona deserialitzaObjectePersona(String fileName) {
 
         try {
-            FileInputStream fileInputStream = new FileInputStream("n1ex5\\" + fileName);
+            FileInputStream fileInputStream = new FileInputStream(fileName);
             ObjectInputStream objectInputStream = new ObjectInputStream(fileInputStream);
             Persona persona = (Persona) objectInputStream.readObject();
             objectInputStream.close();

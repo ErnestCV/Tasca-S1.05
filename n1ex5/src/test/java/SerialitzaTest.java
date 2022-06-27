@@ -19,6 +19,4 @@ public class SerialitzaTest {
         assertThat(persona.getNom()).isEqualTo(persona1.getNom());
 
     }
-
-
 }
