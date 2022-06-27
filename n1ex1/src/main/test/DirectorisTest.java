@@ -11,7 +11,7 @@ public class DirectorisTest {
     @Test
     void compareDirectoryList() {
 
-        String dirName = "C:\\Users\\ecv-s\\IdeaProjects";
+        String dirName = "C:\\Users\\formacio\\IdeaProjects";
         GestioDirectori gestioDirectori = new GestioDirectori();
 
         List<File> directorisListJava = gestioDirectori.mostraDirectoriAlfabeticJava(dirName);

@@ -7,11 +7,17 @@ public class Main {
 
     public static void main(String[] args) {
 
-        String dirName = "C:\\Users\\ecv-s\\IdeaProjects\\Tasca-S1.05";
+        //String dirName = "C:\\Users\\ecv-s\\IdeaProjects\\Tasca-S1.05";
 
         GestioDirectoris gestioDirectoris = new GestioDirectoris();
 
-        gestioDirectoris.mostraDirectorisRecursiuAlfabeticJava(dirName);
+        //Amb Java pur
+        gestioDirectoris.mostraDirectorisRecursiuAlfabeticJava(args[0]);
+
+        System.out.println();
+
+        //Amb llibreria apache commons io
+        gestioDirectoris.mostraDirectorisRecursiuAlfabeticApache(args[0]);
 
     }
 }

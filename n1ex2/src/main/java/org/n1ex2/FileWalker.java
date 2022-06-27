@@ -15,6 +15,14 @@ import static java.nio.file.FileVisitResult.CONTINUE;
 
 public class FileWalker extends SimpleFileVisitor<Path> {
 
+
+    @Override
+    public FileVisitResult preVisitDirectory(Path dir,
+                                             BasicFileAttributes attrs) {
+        System.out.format("(D): %s%n", dir);
+        return CONTINUE;
+    }
+
     @Override
     public FileVisitResult visitFile(Path file, BasicFileAttributes attr) {
 
@@ -34,7 +42,7 @@ public class FileWalker extends SimpleFileVisitor<Path> {
     @Override
     public FileVisitResult postVisitDirectory(Path dir,
                                               IOException exc) {
-        System.out.format("(D): %s%n", dir);
+        //System.out.format("(D): %s%n", dir);
         return CONTINUE;
     }
 

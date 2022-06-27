@@ -7,19 +7,16 @@ public class Main {
 
     public static void main(String[] args) {
 
-        //"C:\Users\ecv-s\IdeaProjects\Tasca-S1.05\n1ex1\src\main\java\n1ex1\Main.java"
         //"C:\\Users\\formacio\\IdeaProjects"
-
-        String dirName = "C:\\Users\\ecv-s\\IdeaProjects";
 
         GestioDirectori gestioDirectori = new GestioDirectori();
 
-        List<File> directorisListJava = gestioDirectori.mostraDirectoriAlfabeticJava(dirName);
+        List<File> directorisListJava = gestioDirectori.mostraDirectoriAlfabeticJava(args[0]);
         directorisListJava.forEach(System.out::println);
 
         System.out.println();
 
-        List<File> directorisListApache = gestioDirectori.mostraDirectoriAlfabeticApache(dirName);
+        List<File> directorisListApache = gestioDirectori.mostraDirectoriAlfabeticApache(args[0]);
         directorisListApache.forEach(System.out::println);
 
     }

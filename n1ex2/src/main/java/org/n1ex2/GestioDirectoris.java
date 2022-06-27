@@ -1,6 +1,7 @@
 package org.n1ex2;
 
 import org.apache.commons.io.FileUtils;
+import org.apache.commons.io.filefilter.FileFileFilter;
 import org.apache.commons.io.filefilter.TrueFileFilter;
 
 import java.io.File;
@@ -15,6 +16,7 @@ import java.util.*;
 import java.util.stream.Stream;
 
 import static java.nio.file.FileVisitResult.CONTINUE;
+import static org.apache.commons.io.filefilter.TrueFileFilter.*;
 
 public class GestioDirectoris {
 
@@ -42,29 +44,21 @@ public class GestioDirectoris {
         return directorisListJava;
     }
 
-//    public List<File> mostraDirectoriAlfabeticApache(String dirName) {
-//
-//        //Amb la llibreria de commons-io
-//
-//        //listFilesAndDirs(file(dirname), filefilter, optional dirfilter - null: no subdirectoris)
-//        Collection<File> directorisCollection =  FileUtils.listFilesAndDirs(new File(dirName), TrueFileFilter.TRUE, null);
-//        List<File> directorisListApache = new ArrayList<>(directorisCollection);
-//        Collections.sort(directorisListApache);
-//        return directorisListApache;
-//
-//    }
+    public List<File> mostraDirectoriAlfabeticApache(String dirName) {
+
+        //Amb la llibreria de commons-io
+
+        //listFilesAndDirs(file(dirname), filefilter, optional dirfilter - null: no subdirectoris)
+        Collection<File> directorisCollection =  FileUtils.listFilesAndDirs(new File(dirName), TRUE, null);
+        List<File> directorisListApache = new ArrayList<>(directorisCollection);
+        Collections.sort(directorisListApache);
+        return directorisListApache;
+
+    }
 
     public void mostraDirectorisRecursiuAlfabeticJava(String dirName) {
 
         Path path = Path.of(dirName);
-
-//        try {
-//            Files.walk(path).sorted().forEach(System.out::println);
-//        } catch (IOException e) {
-//            System.err.println(e);
-//        }
-
-        //System.out.println();
 
         //TODO ordre alfabètic
         //https://stackoverflow.com/questions/53861136/files-walkfiletree-in-lexicographical-order
@@ -76,8 +70,26 @@ public class GestioDirectoris {
             System.out.println(e.getMessage());
         }
 
-        //listfiles recursiu Files.list
+        //listfiles recursiu Files.list //TODO
         //https://stackoverflow.com/questions/2534632/list-all-files-from-a-directory-recursively-with-java
 
     }
+
+    public void mostraDirectorisRecursiuAlfabeticApache(String dirName) {
+
+        Collection<File> files = FileUtils.listFilesAndDirs(new File(dirName), TRUE, INSTANCE);
+        List<File> filesList = new ArrayList<>(files);
+
+        Collections.sort(filesList);
+
+        filesList.forEach(file -> {
+            if (file.isDirectory()) {
+                System.out.println("[D] " + file);
+            } else if (file.isFile()) {
+                System.out.println("[F] " + file + " Last modified: " + new Date(file.lastModified()));
+            }
+        });
+
+    }
+
 }
