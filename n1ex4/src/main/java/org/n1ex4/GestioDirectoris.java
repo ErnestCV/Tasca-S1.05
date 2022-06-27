@@ -1,4 +1,4 @@
-package org.n1ex3;
+package org.n1ex4;
 
 import org.apache.commons.io.FileUtils;
 import org.apache.commons.io.filefilter.FileFileFilter;
@@ -6,6 +6,7 @@ import org.apache.commons.io.filefilter.TrueFileFilter;
 
 import java.io.File;
 import java.io.IOException;
+import java.nio.charset.StandardCharsets;
 import java.nio.file.*;
 import java.nio.file.attribute.BasicFileAttributes;
 import java.nio.file.attribute.FileTime;
@@ -85,18 +86,35 @@ public class GestioDirectoris {
         filesList.forEach(file -> {
             if (file.isDirectory()) {
                 try {
-                    FileUtils.writeStringToFile(outputFile, "[D] " + file + "\n", "UTF-8", true);
+                    FileUtils.writeStringToFile(outputFile, "[D] " + file + "\n", "UTF-16", true);
                 } catch (IOException e) {
                     throw new RuntimeException(e);
                 }
             } else if (file.isFile()) {
                 try {
-                    FileUtils.writeStringToFile(outputFile, "[F] " + file + " Last modified: " + new Date(file.lastModified()) + "\n", "UTF-8", true);
+                    FileUtils.writeStringToFile(outputFile, "[F] " + file + " Last modified: " + new Date(file.lastModified()) + "\n", "UTF-16", true);
                 } catch (IOException e) {
                     throw new RuntimeException(e);
                 }
             }
         });
+
+    }
+
+    public void llegirFitxerTXT(String fileName) {
+
+//        try {
+//            System.out.println(FileUtils.readFileToString(new File(fileName), "UTF-8"));
+//        } catch (IOException e) {
+//            e.printStackTrace();
+//        }
+
+        try {
+            List<String> lines = FileUtils.readLines(new File(fileName), StandardCharsets.UTF_8);
+            lines.forEach(System.out::println);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
 
     }
 

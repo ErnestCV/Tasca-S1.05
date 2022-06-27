@@ -15,3 +15,7 @@ mvn exec:java -D"exec.args"="C:\\Users\\formacio\\IdeaProjects"
 cd n1ex3
 mvn compile exec:java -D"exec.args"="C:\\Users\\formacio\\IdeaProjects\\Tasca-S1.05"
 
+//Nivell 1, exercici 4
+//En el pom hem de declarar <mainClass>n1ex1.Main</mainClass>, o si no, afegir -D"exec.mainClass"="org.n1ex4.Main"
+cd n1ex4
+

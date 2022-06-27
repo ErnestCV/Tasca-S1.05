@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="n1ex3" />
         <module name="n1ex2" />
+        <module name="n1ex4" />
         <module name="n1ex1" />
       </profile>
     </annotationProcessing>
