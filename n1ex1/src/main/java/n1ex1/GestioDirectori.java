@@ -5,7 +5,6 @@ import org.apache.commons.io.filefilter.TrueFileFilter;
 
 import java.io.File;
 import java.io.IOException;
-import java.nio.file.DirectoryStream;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
@@ -25,18 +24,12 @@ public class GestioDirectori {
 
         //Amb Java
 
-        /*
-        try (DirectoryStream<Path> stream = Files.newDirectoryStream(Paths.get(dirName))) {
-        }
-         */
-
         List<File> directorisListJava = new ArrayList<>();
 
         try (Stream<Path> stream = Files.list(Paths.get(dirName))) {
-            //stream.forEach(System.out::println);
             directorisListJava = stream.map(Path::toFile).sorted().toList();
         } catch (IOException e) {
-            System.err.println(e);
+            e.printStackTrace();
         }
         return directorisListJava;
     }
@@ -46,11 +39,10 @@ public class GestioDirectori {
         //Amb la llibreria de commons-io
 
         //listFilesAndDirs(file(dirname), filefilter, optional dirfilter - null: no subdirectoris)
-        Collection<File> directorisCollection =  FileUtils.listFilesAndDirs(new File(dirName), TrueFileFilter.TRUE, null);
+        Collection<File> directorisCollection = FileUtils.listFilesAndDirs(new File(dirName), TrueFileFilter.TRUE, null);
         List<File> directorisListApache = new ArrayList<>(directorisCollection);
         Collections.sort(directorisListApache);
         return directorisListApache;
 
     }
-
 }

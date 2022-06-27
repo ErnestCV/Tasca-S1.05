@@ -7,7 +7,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        //"C:\\Users\\formacio\\IdeaProjects"
+        //Fem el mateix amb llibreries de Java i també d'Apache Commons IO
 
         GestioDirectori gestioDirectori = new GestioDirectori();
 
